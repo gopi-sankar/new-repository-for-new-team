@@ -52,3 +52,9 @@ public class Gopi {
 
 	}
 }
+class Anji{
+	public static void main(String[] args) {
+		System.out.println("Anjibabu thota");
+	}
+	
+}
